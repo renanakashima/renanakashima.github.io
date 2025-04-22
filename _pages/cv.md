@@ -11,54 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Exchange in Computer Science, École Polytechnique Fédérale de Lausanne (EPFL) (Aug 2024 ~ Jun 2025)
+* B.S. in Systems Innovation, Faculty of Engineering, The University of Tokyo (Apr 2021 ~ Mar 2026)
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Research Project at [Visual Intelligence for Transportation Lab (VITA)](https://www.epfl.ch/labs/vita/), EPFL
+  * Supervisor: [Alexandre Alahi](https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Project at [Data Science Lab (DLAB)](https://dlab.epfl.ch/), EPFL
+  * Supervisor: [Robert West](https://scholar.google.com/citations?user=ZiFn598AAAAJ&hl=en)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Thesis at Long Lab, The University of Tokyo
+  * Supervisor: [Yin Long](https://scholar.google.com/citations?hl=en&user=cUgJODwAAAAJ)
