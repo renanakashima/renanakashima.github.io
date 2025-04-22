@@ -13,4 +13,6 @@ My academic interests lie in generative modeling, multimodal learning, and compu
 
 Outside of research, you might find me attending operas or classical music concerts. Growing up and attending school in the U.S. for a total of 8 years has also shaped who I am today.
 
-I’m always eager to connect with talented researchers and like-minded peers —--feel free to reach out!
+I’m always eager to connect with talented researchers and like-minded peers —–feel free to reach out!
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=srncnzdP_Lyw0GnjEMFSAewygtNHmp17ajsJPuG2plU"></script>
