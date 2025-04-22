@@ -15,6 +15,6 @@ Outside of research, you might find me attending operas or classical music conce
 
 I'm always eager to connect with talented researchers and like-minded peers —–feel free to reach out!
 
-<div style="transform: scale(0.3); transform-origin: center top; height: 450px; overflow: hidden; margin-bottom: 0;">
+<div style="transform: scale(0.3); transform-origin: center top;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=srncnzdP_Lyw0GnjEMFSAewygtNHmp17ajsJPuG2plU"></script>
 </div>
