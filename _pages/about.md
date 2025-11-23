@@ -13,7 +13,7 @@ My academic interests center on the development of socially intelligent agents a
 
 Having spent 8 years of my formative education in the U.S., I bring a bicultural perspective to my work and communication. Outside the lab, you can likely find me at an opera house or a classical music concert.
 
-I'm always eager to connect with talented researchers and like-minded peers. Let's connect!
+I'm always eager to connect with talented researchers and like-minded peers. Feel free to reach out!
 
 <div style="transform: scale(0.3); transform-origin: center top;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=srncnzdP_Lyw0GnjEMFSAewygtNHmp17ajsJPuG2plU"></script>
