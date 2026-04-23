@@ -21,13 +21,15 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
+  # Biographic information© 2026 Rena Nakashima, Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
+Site last updated 2026-04-23
+Favicon: Peach Cat by Bu Jue Xiao Xiao.
   avatar           : "profile.JPG"
   name             : "Rena Nakashima"
   pronouns         : "she/her"
   bio              : ""
   location         : "Tokyo, Japan"
-  employer         : ""
+  #employer         : ""
   uri              : # URL
   email            : "renanakashima4@gmail.com" 
 
