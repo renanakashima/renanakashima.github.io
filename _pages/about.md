@@ -15,6 +15,8 @@ Having spent 8 years of my formative education in the U.S., I bring a bicultural
 
 I'm always eager to connect with talented researchers and like-minded peers. Feel free to reach out!
 
-<div style="zoom: 0.3; margin: 0 auto; text-align: center;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=srncnzdP_Lyw0GnjEMFSAewygtNHmp17ajsJPuG2plU"></script>
+<div style="width: 120px; height: 110px; overflow: hidden; margin: 0 auto;">
+  <div style="transform: scale(0.3); transform-origin: top left; width: 400px; height: 400px;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=srncnzdP_Lyw0GnjEMFSAewygtNHmp17ajsJPuG2plU"></script>
+  </div>
 </div>
