@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year undergraduate at The University of Tokyo, majoring in an interdisciplinary field that blends Management, Technology, and Entrepreneurship. From August 2024 to June 2025, I was on a visiting research exchange at the Swiss Federal Institute of Technology Lausanne (EPFL), diving deeply into Computer Science research.
+I'm an incoming M.S. student in Computer Science at [Georgia Institute of Technology](https://www.gatech.edu/), starting Fall 2026. Currently, I'm a full-time research intern at [OMRON SINIC X Corporation](https://www.omron.com/sinicx/en/), where I work on VLMs for robot manipulation, planning, and control, and zero-shot generalization on simulated benchmarks. My interests are in robot intelligence, particularly how machines can learn, perceive, and act in the open world with the kind of flexibility and generality that comes naturally to humans.
 
-My academic interests center on the development of socially intelligent agents and robots. I am driven by the challenge of creating systems that possess a robust, generalized understanding of diverse environments and can interact naturally with humans.
+Previously, I completed my B.Eng. at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/) and spent one year as an exchange student in Computer Science at [EPFL](https://www.epfl.ch/en/).
 
-Having spent 8 years of my formative education in the U.S., I bring a bicultural perspective to my work and communication. Outside the lab, you can likely find me at an opera house or a classical music concert.
-
-I'm always eager to connect with talented researchers and like-minded peers. Feel free to reach out!
+Outside the lab, you can likely find me at operas and classical music concerts.
 
 <style>
 .page__content > p:last-of-type { margin-bottom: 0 !important; }
