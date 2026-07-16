@@ -149,9 +149,13 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "umami" # false (default), "google", "google-universal", "google-analytics-4", "custom", "umami"
   google:
     tracking_id          :
+  umami:
+    script_url           : "https://cloud.umami.is/script.js" # or your self-hosted Umami URL
+    website_id           : "0342e34c-e74a-46f6-afba-cc56b3705088" # from Umami dashboard → Websites → Edit → Tracking code
+    domains              : "renanakashima.github.io" # optional; limits tracking to this domain
 
 
 # Reading Files

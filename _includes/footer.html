@@ -1,12 +1,6 @@
 {% include base_path %}
 
-<div style="float: right; width: 120px; height: 120px; overflow: hidden; margin-left: 1rem;">
-  <div style="transform: scale(0.3); transform-origin: top left; width: 400px; height: 400px;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=srncnzdP_Lyw0GnjEMFSAewygtNHmp17ajsJPuG2plU"></script>
-  </div>
-</div>
-
-<div class="page__footer-copyright">
+<div class="page__footer-copyright footer__meta">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' %}}
+  Site last updated {{ "now" | date: '%Y-%m-%d' }}
 </div>
