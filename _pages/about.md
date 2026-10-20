@@ -17,6 +17,11 @@ I received my B.Eng. from the [University of Tokyo](https://www.u-tokyo.ac.jp/en
 
 Outside the lab, you'll likely find me at an opera or classical music concert.
 
+<section class="home-projects" id="projects" aria-labelledby="projects-title">
+  <h2 id="projects-title">Projects</h2>
+  {% include project-list.html %}
+</section>
+
 
 <style>
 .page__content > p:last-of-type { margin-bottom: 0 !important; }

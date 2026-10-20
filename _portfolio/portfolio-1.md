@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Astra Beyond Tabletop: Into the Home"
+excerpt: "Evaluating GPT-6 Astra as a zero-shot robot policy for real-world household mobile manipulation, enabling direct robot control without task-specific training or predefined skills."
+image: /portfolio/blog_cover.png
+image_alt: "A collage of a mobile robot performing household manipulation tasks"
 collection: portfolio
+link: https://www.gt-rail.com/blog/astra-beyond-tabletop/{:target="_blank" rel="noopener noreferrer"}
+link_label: "Read the blog"
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
