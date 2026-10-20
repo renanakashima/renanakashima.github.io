@@ -1,0 +1,76 @@
+/* Project cards shared by the homepage and the projects archive. */
+.home-projects {
+  margin-top: 2.5em;
+  scroll-margin-top: 6rem;
+}
+
+.project-list {
+  display: grid;
+  gap: 1.5rem;
+  margin-top: 1.25rem;
+}
+
+.project-card {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
+  align-items: start;
+  gap: 1.25rem;
+  padding: 1.25rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 12px;
+  background: var(--global-bg-color);
+
+  &__image {
+    display: block;
+    overflow: hidden;
+    border-radius: 6px;
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 2940 / 1472;
+      object-fit: contain;
+    }
+  }
+
+  &__title {
+    margin: 0 0 0.6rem;
+    font-size: 1.05em;
+    line-height: 1.35;
+
+    a,
+    a:visited {
+      color: var(--global-text-color);
+      text-decoration: none;
+    }
+  }
+
+  &__description {
+    font-size: 0.85em;
+    line-height: 1.6;
+
+    p {
+      margin: 0 0 0.8rem;
+    }
+  }
+
+  &__link {
+    font-size: 0.85em;
+    font-weight: 600;
+  }
+
+  a:focus-visible {
+    outline: 2px solid var(--global-link-color);
+    outline-offset: 4px;
+  }
+
+  &--text-only {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  @media (max-width: 600px) {
+    grid-template-columns: minmax(0, 1fr);
+    padding: 1rem;
+  }
+}

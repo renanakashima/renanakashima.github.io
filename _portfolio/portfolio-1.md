@@ -4,6 +4,6 @@ excerpt: "Evaluating GPT-6 Astra as a zero-shot robot policy for real-world hous
 image: /portfolio/blog_cover.png
 image_alt: "A collage of a mobile robot performing household manipulation tasks"
 collection: portfolio
-link: https://www.gt-rail.com/blog/astra-beyond-tabletop/{:target="_blank" rel="noopener noreferrer"}
+link: https://www.gt-rail.com/blog/astra-beyond-tabletop/
 link_label: "Read the blog"
 ---

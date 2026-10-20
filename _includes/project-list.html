@@ -1,0 +1,17 @@
+<div class="project-list">
+  {% for project in site.portfolio %}
+    {% assign project_url = project.link | default: project.url | relative_url %}
+    <article class="project-card{% unless project.image %} project-card--text-only{% endunless %}">
+      {% if project.image %}
+        <a class="project-card__image" href="{{ project_url | escape }}" target="_blank" rel="noopener noreferrer" tabindex="-1" aria-hidden="true">
+          <img src="{{ project.image | relative_url | escape }}" alt="{{ project.image_alt | default: project.title | escape }}" loading="lazy" decoding="async">
+        </a>
+      {% endif %}
+      <div class="project-card__body">
+        <h3 class="project-card__title"><a href="{{ project_url | escape }}" target="_blank" rel="noopener noreferrer">{{ project.title | escape }}</a></h3>
+        <div class="project-card__description">{{ project.excerpt | markdownify }}</div>
+        <a class="project-card__link" href="{{ project_url | escape }}" target="_blank" rel="noopener noreferrer">{{ project.link_label | default: "View project" | escape }} <span aria-hidden="true">&rarr;</span></a>
+      </div>
+    </article>
+  {% endfor %}
+</div>
